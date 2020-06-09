@@ -1,0 +1,13 @@
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Infrastructure\obj\Debug\netcoreapp2.2\BBShop.Infrastructure.csprojAssemblyReference.cache
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Infrastructure\obj\Debug\netcoreapp2.2\BBShop.Infrastructure.AssemblyInfoInputs.cache
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Infrastructure\obj\Debug\netcoreapp2.2\BBShop.Infrastructure.AssemblyInfo.cs
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Infrastructure\bin\Debug\netcoreapp2.2\BBShop.Infrastructure.deps.json
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Infrastructure\bin\Debug\netcoreapp2.2\BBShop.Infrastructure.dll
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Infrastructure\bin\Debug\netcoreapp2.2\BBShop.Infrastructure.pdb
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Infrastructure\bin\Debug\netcoreapp2.2\BBShop.Domain.dll
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Infrastructure\bin\Debug\netcoreapp2.2\BBShop.Domain.pdb
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Infrastructure\obj\Debug\netcoreapp2.2\BBShop.Infrastructure.csproj.CopyComplete
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Infrastructure\obj\Debug\netcoreapp2.2\BBShop.Infrastructure.dll
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Infrastructure\obj\Debug\netcoreapp2.2\BBShop.Infrastructure.pdb
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Infrastructure\bin\Debug\netcoreapp2.2\BBShop.Application.dll
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Infrastructure\bin\Debug\netcoreapp2.2\BBShop.Application.pdb

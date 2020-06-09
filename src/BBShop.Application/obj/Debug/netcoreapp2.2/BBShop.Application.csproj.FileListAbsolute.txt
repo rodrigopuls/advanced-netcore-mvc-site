@@ -1,0 +1,8 @@
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Application\bin\Debug\netcoreapp2.2\BBShop.Application.deps.json
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Application\bin\Debug\netcoreapp2.2\BBShop.Application.dll
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Application\bin\Debug\netcoreapp2.2\BBShop.Application.pdb
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Application\obj\Debug\netcoreapp2.2\BBShop.Application.AssemblyInfoInputs.cache
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Application\obj\Debug\netcoreapp2.2\BBShop.Application.AssemblyInfo.cs
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Application\obj\Debug\netcoreapp2.2\BBShop.Application.dll
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Application\obj\Debug\netcoreapp2.2\BBShop.Application.pdb
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Application\obj\Debug\netcoreapp2.2\BBShop.Application.csprojAssemblyReference.cache

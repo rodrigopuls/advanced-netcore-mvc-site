@@ -1,0 +1,7 @@
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Business\bin\Debug\netcoreapp2.2\BBShop.Business.deps.json
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Business\bin\Debug\netcoreapp2.2\BBShop.Business.dll
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Business\bin\Debug\netcoreapp2.2\BBShop.Business.pdb
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Business\obj\Debug\netcoreapp2.2\BBShop.Business.AssemblyInfoInputs.cache
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Business\obj\Debug\netcoreapp2.2\BBShop.Business.AssemblyInfo.cs
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Business\obj\Debug\netcoreapp2.2\BBShop.Business.dll
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Business\obj\Debug\netcoreapp2.2\BBShop.Business.pdb

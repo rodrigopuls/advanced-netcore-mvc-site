@@ -1,0 +1,54 @@
+﻿@using BBShop.App.Extensions;
+@model BBShop.App.ViewModels.FornecedorViewModel
+
+@{
+    ViewData["Title"] = "Excluir Fornecedor";
+}
+
+<h4 style="padding-top:30px;">@ViewData["Title"]</h4>
+
+<h5>Você tem certeza disso?</h5>
+
+
+<div class="row pt-5">
+    <div class="col-md-5">
+        <dl>
+            <dt>
+                @Html.DisplayNameFor(model => model.Nome)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Nome)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Documento)
+            </dt>
+            <dd>
+                @this.FormataDocumento(Model.TipoFornecedor, Model.Documento)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.TipoFornecedor)
+            </dt>
+            <dd>
+                @Html.Raw(this.ExibeDocumentoBadge(Model.TipoFornecedor, Model.Documento))
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Ativo)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Ativo)
+            </dd>
+        </dl>
+
+    </div>
+</div>
+
+<div>
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Excluir" class="btn btn-danger" />
+        <a class="btn btn-info" href="javascript:window.history.back();">Voltar</a>
+    </form>
+</div>
+
+
+<partial name="_DetalhesEndereco" />

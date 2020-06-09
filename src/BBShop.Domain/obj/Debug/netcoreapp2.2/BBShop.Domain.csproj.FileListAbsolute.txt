@@ -1,0 +1,8 @@
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Domain\bin\Debug\netcoreapp2.2\BBShop.Domain.deps.json
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Domain\bin\Debug\netcoreapp2.2\BBShop.Domain.dll
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Domain\bin\Debug\netcoreapp2.2\BBShop.Domain.pdb
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Domain\obj\Debug\netcoreapp2.2\BBShop.Domain.csprojAssemblyReference.cache
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Domain\obj\Debug\netcoreapp2.2\BBShop.Domain.AssemblyInfoInputs.cache
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Domain\obj\Debug\netcoreapp2.2\BBShop.Domain.AssemblyInfo.cs
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Domain\obj\Debug\netcoreapp2.2\BBShop.Domain.dll
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Domain\obj\Debug\netcoreapp2.2\BBShop.Domain.pdb

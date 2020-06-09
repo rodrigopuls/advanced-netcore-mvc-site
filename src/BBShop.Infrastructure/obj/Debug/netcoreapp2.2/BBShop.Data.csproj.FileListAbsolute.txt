@@ -1,0 +1,11 @@
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Data\bin\Debug\netcoreapp2.2\BBShop.Data.deps.json
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Data\bin\Debug\netcoreapp2.2\BBShop.Data.dll
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Data\bin\Debug\netcoreapp2.2\BBShop.Data.pdb
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Data\bin\Debug\netcoreapp2.2\BBShop.Business.dll
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Data\bin\Debug\netcoreapp2.2\BBShop.Business.pdb
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Data\obj\Debug\netcoreapp2.2\BBShop.Data.csprojAssemblyReference.cache
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Data\obj\Debug\netcoreapp2.2\BBShop.Data.AssemblyInfoInputs.cache
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Data\obj\Debug\netcoreapp2.2\BBShop.Data.AssemblyInfo.cs
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Data\obj\Debug\netcoreapp2.2\BBShop.Data.csproj.CopyComplete
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Data\obj\Debug\netcoreapp2.2\BBShop.Data.dll
+G:\Curso .Net Core\MinhaAppMvcCompleta\src\BBShop.Data\obj\Debug\netcoreapp2.2\BBShop.Data.pdb
