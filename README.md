@@ -1,9 +1,9 @@
-# site-avancado-netcore-mvc
+# advanced-netcore-mvc-site
 
-Aplicação completa com o ASP.NET MVC Core
+Full Application made with ASP.NET MVC Core
 
 - MVC
-- Rotas
+- Routes
 - Action Results
 - Models
 - DataAnnotations
@@ -11,23 +11,23 @@ Aplicação completa com o ASP.NET MVC Core
 - TagHelpers
 - PartialViews
 - ViewComponents
-- Formulários
+- Forms
 - Bundling & Minification
 - Areas
-- Injeção de Dependência
-- Ciclo de Vida
+- Dependency Injection
+- Lifecycle
 - Entity Framework Core
 - Contexto
 - Migrations
 - ASP.NET Identity
-- Autenticação e Autorização
+- Authorization and Authentication
 - Claims e Roles
 - User Secrets
-- Erros
+- Errors
 - Filtros
 - AutoMapper
 - CRUD
-- Consulta de CEP
-- Roteamento
-- Validação
-- entre outros
+- Zip code search
+- Routing
+- Validation
+- and more
